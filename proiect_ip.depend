@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1577014539 source:c:\users\serban\desktop\proiect_ip\main.cpp
+	<iostream>
+	<winbgim.h>
+
+1578737852 source:f:\proiect_ip\main.cpp
+	<iostream>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+
+1578853593 source:c:\users\unexomwid\desktop\proiect_ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+
+1579166736 source:d:\proiect_ip\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<mmsystem.h>
+

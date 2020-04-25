@@ -1,0 +1,2 @@
+Arrange the pieces so that 3 yellow squares and 2 red squares remain uncovered.
+The pieces rotate with a right click.
